@@ -4,16 +4,17 @@ body {
 
 #blog-post {
   margin: 40px auto;
-  border-radius: 15px;
+  border-radius: 5px;
   width: 500px;
-  background-color: rgb(84, 78, 238);
+  background-color: rgba(83, 78, 238, 0.37);
   padding: 30px;
 }
 
 .comment {
-  background-color: rgb(67, 215, 58);
+  background-color: rgba(66, 215, 58, 0.521);
   margin: 10px;
-  padding: 5px;
+  padding: 10px;
   border-radius: 5px;
   display: inline-flex;
+  font-family: monospace;
 }
